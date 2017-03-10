@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="app_local">Home</string>
+    <string name="app_visitante">Visitor</string>
+    <string name="fin">End</string>
+
+</resources>
