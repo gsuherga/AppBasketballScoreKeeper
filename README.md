@@ -6,7 +6,7 @@ Es una aplicación marcador para un partido de baloncesto. Te permite llevar el 
 en cada cuarto. Y si quieres, de cada de jugador.
 
 Así pues, se agradecen comentarios retroalimentadores,
-Gracias!
+¡Gracias!
 
 In English:
 
